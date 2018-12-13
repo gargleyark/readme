@@ -2,6 +2,8 @@
 
 Fast, quick-witted, devilishly handsome web developer for [Javascript](https://www.ecma-international.org/default.htm).
 
+Expert SVG designer.
+
 ![NPM Version][npm-image]
 ![Linux Build][travis-image]
 
