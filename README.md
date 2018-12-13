@@ -63,7 +63,7 @@ want to grab a coffee?
  > obviously
 ```
 
-_Please make sure language version is set to EN. Mike can attempt to use the ES language version, but communication will be vastly reduced._
+_Please make sure language version is set to EN or JEFF. Mike can attempt to use the ES language version, but communication will be vastly reduced._
 
 ### Security Issues
 
@@ -79,6 +79,18 @@ mike be quiet
 shh
  > oh, ok
 ```
+
+## Jeff Protocol (![jeff][http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png])
+
+This is a protocol used for communicating in Jeff emojis. This is the default protocol for Mike and cannot be reconfigured.
+
+![jeff][http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/sadjeff.png]![sad][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]
+
+\> ![jeff][http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png]![sad][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/sadjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/sadjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/sadjeff.png]
+
+![jeff][http://www.cultofjeffgoldblum.com/index_files/copjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/sadjeff.png]![sad][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/billablejeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/billablejeff.png]
+
+\> ![jeff][http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png]![sad][http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/jeffolantern.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/realjeff.png]![jeff][http://www.cultofjeffgoldblum.com/index_files/skelijeff.png]
 
 ## Tests
 
