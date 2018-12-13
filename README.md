@@ -26,9 +26,9 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 
 ## I/O and Communication
 
-- I try Mike's best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack message.
+- I try my best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack message.
 - If something is urgent then there's nothing quicker than tapping me on Mike's shoulder even if I'm in the middle of something else, I won't mind!
-- If you need to put something in Mike's calendar then just do it, I keep it up to date and Mike's holiday will be clearly marked.
+- If you need to put something in my calendar then just do it, I keep it up to date and my holiday will be clearly marked.
 - Some\* communication may occur in indecipherable jeff emojis. Humour me.
 
 ## Quick Start
