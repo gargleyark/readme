@@ -1,4 +1,4 @@
-[![Mike Logo](https://www.emblemworks.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/i/mike-name-patch-with-merrow-border-red-white.jpg)](http://gargleyark.com/)
+[![Mike Logo](mike-logo.svg)](http://gargleyark.com/)
 
 Fast, quick-witted, devilishly handsome web developer for [Javascript](https://www.ecma-international.org/default.htm).
 
