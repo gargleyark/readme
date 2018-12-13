@@ -94,5 +94,6 @@ Mike is distributed under [MIT license](LICENSE).
 [npm-url]: https://npmjs.org/package/express
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
+[license]: license.md
 
 \*most
