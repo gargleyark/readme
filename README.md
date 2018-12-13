@@ -2,8 +2,8 @@
 
 Fast, quick-witted, devilishly handsome web developer for [Javascript](https://www.ecma-international.org/default.htm).
 
-[![NPM Version][npm-image]][www.am-i-being-funny-yet.com]
-[![Linux Build][travis-image]][www.no?i-will-keep-trying-then.com]
+![NPM Version][npm-image]
+![Linux Build][travis-image]
 
 ## Why
 
@@ -93,6 +93,6 @@ Mike is distributed under [MIT license](LICENSE).
 [npm-image]: ./mike.svg
 [npm-url]: https://npmjs.org/package/express
 [downloads-url]: https://npmjs.org/package/express
-[travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=mike
+[travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
 
 \*most
