@@ -9,6 +9,8 @@ Fast, quick-witted, devilishly handsome web developer for [Javascript](https://w
 
 This readme should allow you to understand what Mike is.
 
+Main goals of this document:
+
 - Helping you understand Mike's confusing obsession with :jeff: emojis
 - Helping Mike stay on track with his values and goals
 
