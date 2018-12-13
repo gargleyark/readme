@@ -88,7 +88,7 @@ mike, how are you?
 
 ## License
 
-Mike is distributed under [MIT license](LICENSE).
+Mike is distributed under [MIT license](license).
 
 [npm-image]: ./mike.svg
 [npm-url]: https://npmjs.org/package/express
