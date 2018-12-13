@@ -88,12 +88,11 @@ mike, how are you?
 
 ## License
 
-Mike is distributed under [MIT license](license).
+Mike is distributed under [MIT license](license.md).
 
 [npm-image]: ./mike.svg
 [npm-url]: https://npmjs.org/package/express
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
-[license]: license.md
 
 \*most
