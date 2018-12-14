@@ -80,7 +80,7 @@ shh
  > oh, ok
 ```
 
-## Jeff Protocol (<img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png) <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png) <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png) <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png) <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png) <img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png) <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png))
+## Jeff Protocol (<img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs width="24" height="24" />)
 
 This is a protocol used for communicating in Jeff emojis. This is the default protocol for Mike and cannot be reconfigured.
 
@@ -90,7 +90,7 @@ This is a protocol used for communicating in Jeff emojis. This is the default pr
 
 <img src="http://www.cultofjeffgoldblum.com/index_files/copjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/billablejeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/billablejeff.png" width="24" height="24" />
 
-<img src="http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffolantern.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/realjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/skelijeff.png" width="24" height="24" />
+<img src="http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffolantern.gif" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/realjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/skelijeff.png" width="24" height="24" />
 
 ## Tests
 
