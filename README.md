@@ -80,7 +80,7 @@ shh
  > oh, ok
 ```
 
-## Jeff Protocol (<img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs width="24" height="24" />)
+## Jeff Protocol
 
 This is a protocol used for communicating in Jeff emojis. This is the default protocol for Mike and cannot be reconfigured.
 
