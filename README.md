@@ -81,18 +81,6 @@ shh
  > oh, ok
 ```
 
-## Jeff Protocol
-
-This is a protocol used for communicating in Jeff emojis. This is the default protocol for Mike and cannot be reconfigured.
-
-<img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/badlydrawnjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" />
-
-<img src="http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" />
-
-<img src="http://www.cultofjeffgoldblum.com/index_files/copjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/sadjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/billablejeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/billablejeff.png" width="24" height="24" />
-
-<img src="http://www.cultofjeffgoldblum.com/index_files/friarmanjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/frankenjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffjobs.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/jeffolantern.gif" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/realjeff.png" width="24" height="24" /> <img src="http://www.cultofjeffgoldblum.com/index_files/skelijeff.png" width="24" height="24" />
-
 ## Tests
 
 To test the status of mike, first install the dependencies, then run `mike, how are you?`:
