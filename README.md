@@ -35,7 +35,7 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 - If something is urgent then there's nothing quicker than tapping me on the shoulder even if I'm in the middle of something else, I won't mind!
 - If you need to put something in my calendar then just do it, I keep it up to date and my holiday will be clearly marked.
 - Beware overpromises. Mike will often attempt to resolve too many requests, which can lead to delays in responses.
-- Some\* communication may occur in indecipherable jeff emojis. Humour me.
+- Some\* communication may occur in [indecipherable jeff emojis](http://cultofjeffgoldblum.com/). Humour me.
 
 ## Features
 - Javascript/Typescript
