@@ -1,5 +1,7 @@
 [![Mike Logo](mike-logo.svg)](http://gargleyark.com/)
 
+(He/Him)
+
 Fast, quick-witted, devilishly handsome lead developer for [Javascript](https://www.ecma-international.org/default.htm) and [Typescript](https://www.typescriptlang.org/).
 
 Slightly above average Catan player.
