@@ -114,5 +114,5 @@ Mike is distributed under [MIT license](license.md).
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
 
-\*hopefully not Teams
+\*hopefully not Teams \n
 \*\*most
