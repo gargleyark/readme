@@ -23,7 +23,7 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 
 ## My key values
 
-- Mentoring & Coaching - It's important for me to be able to help those around me grow, and I try to focus on coaching and mentoring people both to upskill them in the short term and to help plan out a longer term career path.
+- Mentoring & Coaching - It's important for me to be able to help those around me grow, and coaching and mentoring those around me is key to this. I want to help you grow to the best of your potential, and give you clear advice that will help you now and in the future.
 - Joint ownership - Projects are built by teams, not individuals. Success comes when we work together, not apart. Failures are also shared and I do not believe in a blame culture - Failure should be celebrated and learned from.
 - Constant iteration and improvement - Whether this is related to refactoring code, trialing new ways of working, or mentoring and training to prevent knowledge becoming siloed. Iterating on what has gone before and making sure the next step in a project is always an improvement is an important focus of mine.
 - Radical candor - Care for the people around you; be direct towards anything that clearly isn't ok and help them be the best that they can be.
@@ -33,11 +33,11 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 
 ## I/O and Communication
 
-- I try my best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack message.
+- I try my best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack\* message.
 - If something is urgent then there's nothing quicker than tapping me on the shoulder even if I'm in the middle of something else, I won't mind!
 - If you need to put something in my calendar then just do it, I keep it up to date and my holiday will be clearly marked.
 - Beware overpromises. Mike will often attempt to resolve too many requests, which can lead to delays in responses.
-- Some\* communication may occur in [indecipherable jeff emojis](http://cultofjeffgoldblum.com/). Humour me.
+- Some\*\* communication may occur in [indecipherable jeff emojis](http://cultofjeffgoldblum.com/). Humour me.
 
 ## Features
 - Javascript/Typescript
@@ -114,4 +114,5 @@ Mike is distributed under [MIT license](license.md).
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
 
-\*most
+\*hopefully not Teams
+\*\*most
