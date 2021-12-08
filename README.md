@@ -23,7 +23,7 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 
 ## My key values
 
-- Mentoring & Coaching - It's important for me to be able to help those around me grow, and coaching and mentoring those around me is key to this. I want to help you grow to the best of your potential, and give you clear advice that will help you now and in the future.
+- Mentoring & Coaching - It's important for me to be able to help those around me grow, and coaching and mentoring those around me is key to this. I'm interested in you and what you want from your career - and I want to help you continue to grow to the best of your potential.
 - Joint ownership - Projects are built by teams, not individuals. Success comes when we work together, not apart. Failures are also shared and I do not believe in a blame culture - Failure should be celebrated and learned from.
 - Constant iteration and improvement - Whether this is related to refactoring code, trialing new ways of working, or mentoring and training to prevent knowledge becoming siloed. Iterating on what has gone before and making sure the next step in a project is always an improvement is an important focus of mine.
 - Radical candor - Care for the people around you; be direct towards anything that clearly isn't ok and help them be the best that they can be.
