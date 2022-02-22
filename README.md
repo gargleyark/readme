@@ -77,7 +77,7 @@ want to grab a coffee?
 
 After 5pm coffee must be replaced by beer.
 
-_Please make sure language version is set to EN or JEFF. Mike can attempt to use the ES language version, but communication will be vastly reduced._
+_Please make sure language version is set to EN or [JEFF](http://cultofjeffgoldblum.com/). Mike can attempt to use the ES language version, but communication will be vastly reduced._
 
 ### Security Issues
 
