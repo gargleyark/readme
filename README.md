@@ -2,9 +2,9 @@
 
 (He/Him)
 
-Fast, quick-witted, devilishly handsome lead developer for [Javascript](https://www.ecma-international.org/default.htm) and [Typescript](https://www.typescriptlang.org/).
+Lead developer for [Javascript](https://www.ecma-international.org/default.htm) and [Typescript](https://www.typescriptlang.org/).
 
-Slightly below average Catan player.
+Slightly above average Catan player.
 
 ![NPM Version][npm-image]
 ![Linux Build][travis-image]
