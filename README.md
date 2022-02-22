@@ -4,7 +4,7 @@
 
 Fast, quick-witted, devilishly handsome lead developer for [Javascript](https://www.ecma-international.org/default.htm) and [Typescript](https://www.typescriptlang.org/).
 
-Slightly above average Catan player.
+Slightly below average Catan player.
 
 ![NPM Version][npm-image]
 ![Linux Build][travis-image]
