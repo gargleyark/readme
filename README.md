@@ -16,7 +16,6 @@ This readme should allow you to understand who I am.
 Main goals of this document:
 
 - Helping you get to know what I'm about!
-- Helping you understand my ways of working
 - Helping me stay on track with my values and goals
 
 Mike is not available via NPM or Yarn. He may experience compatability issues with Windows.
