@@ -50,7 +50,6 @@ If I'm on holiday then it will be clearly marked in my calendar and I'll have a 
 - Data driven over opinion driven
 - Constant, fair feedback. Regular and objective coaching
 - Focus on high quality user experience
-- TDD
 - Pairing/Mobbing
 - Slightly too pointy beard
 
