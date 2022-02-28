@@ -28,6 +28,13 @@ Mike is not available via NPM or Yarn. He may experience compatability issues wi
 - Radical candor - Care for the people around you; be direct towards anything that clearly isn't ok and help them be the best that they can be.
 - Law of two feet - I don't expect you to waste your valuable time; if a meeting is dragging on or going off topic then voice it, and if you have something more important to do then go and do it.
 
+## Working hours:
+I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup at 9am. From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
+
+For important questions or emergencies I'm available by Slack at any reasonable hour of the day or night (but I do NOT expect the same from my team). If you need my immediate attention then please give me a call.
+
+If I'm on holiday then it will be clearly marked in my calendar and I'll have a Slack status set. I am often (intentionally) on holiday with very limited internet connectivity. 
+
 # What do I do?
 
 ## I/O and Communication
