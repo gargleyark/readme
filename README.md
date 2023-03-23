@@ -18,7 +18,7 @@ Main goals of this document:
 - Helping you get to know what I'm about!
 - Helping me stay on track with my values and goals
 
-Mike is not available via NPM or Yarn. He may experience compatability issues with Windows.
+Mike is not available via NPM or Yarn. He may experience compatibility issues with Windows.
 
 ## My key values
 
