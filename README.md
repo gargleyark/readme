@@ -25,11 +25,11 @@ Mike is not available via NPM or Yarn. He may experience compatibility issues wi
 - Mentoring & Coaching - It's important for me to be able to help those around me grow, and coaching and mentoring those around me is key to this. I'm interested in you and what you want from your career - and I want to help you continue to grow to the best of your potential.
 - Joint ownership - Projects are built by teams, not individuals. Success comes when we work together, not apart. Failures are also shared and I do not believe in a blame culture - Failure should be celebrated and learned from.
 - Constant iteration and improvement - Whether this is related to refactoring code, trialing new ways of working, or mentoring and training to prevent knowledge becoming siloed. Iterating on what has gone before and making sure the next step in a project is always an improvement is an important focus of mine.
-- Radical candor - Care for the people around you; be direct towards anything that clearly isn't ok and help them be the best that they can be.
+- Radical candor - Care for the people around you; be direct towards anything that clearly isn't ok and help people be the best that they can be.
 - Law of two feet - I don't expect you to waste your valuable time; if a meeting is dragging on or going off topic then voice it, and if you have something more important to do then go and do it.
 
 ## Working hours:
-I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup at 9am. From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
+I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup (which hopefully isn't at 9am). From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
 
 For important questions or emergencies I'm available by Slack at any reasonable hour of the day or night (but I do NOT expect the same from my team). If you need my immediate attention then please give me a call.
 
