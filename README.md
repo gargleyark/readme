@@ -29,7 +29,7 @@ Mike is not available via NPM or Yarn. He may experience compatibility issues wi
 - Law of two feet - I don't expect you to waste your valuable time; if a meeting is dragging on or going off topic then voice it, and if you have something more important to do then go and do it.
 
 ## Working hours:
-I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup\*\*\*. From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
+I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup[\*\*\*](#notes). From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
 
 For important questions or emergencies I'm available by Slack at any reasonable hour of the day or night (but I do NOT expect the same from my team). If you need my immediate attention then please give me a call.
 
@@ -39,11 +39,11 @@ If I'm on holiday then it will be clearly marked in my calendar and I'll have a 
 
 ## I/O and Communication
 
-- I try my best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack\* message.
+- I try my best to always be available to help, if you want to talk about something but think that I'm busy then ping me a slack[\*](#notes) message.
 - If something is urgent then there's nothing quicker than tapping me on the shoulder even if I'm in the middle of something else, I won't mind!
 - If you need to put something in my calendar then just do it, I keep it up to date and my holiday will be clearly marked.
 - Beware overpromises. Mike will often attempt to resolve too many requests, which can lead to delays in responses.
-- Some\*\* communication may occur in [indecipherable jeff emojis](http://cultofjeffgoldblum.com/). Humour me.
+- Some[\*\*](#notes) communication may occur in [indecipherable jeff emojis](http://cultofjeffgoldblum.com/). Humour me.
 
 ## Features
 - Javascript/Typescript
@@ -119,6 +119,7 @@ Mike is distributed under [MIT license](license.md).
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=tests
 
- - \*hopefully not Teams 
+## Notes
+ - \*hopefully not Teams
  - \*\*most
  - \*\*\*hopefully not at 9am
