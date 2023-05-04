@@ -29,7 +29,7 @@ Mike is not available via NPM or Yarn. He may experience compatibility issues wi
 - Law of two feet - I don't expect you to waste your valuable time; if a meeting is dragging on or going off topic then voice it, and if you have something more important to do then go and do it.
 
 ## Working hours:
-I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup (which hopefully isn't at 9am). From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
+I normally kick off my day (either over breakfast at home or while commuting in) by checking emails/catching up on messages before standup\*\*\*. From then I will usually be available until at least 5:30pm. The best way to reach me while I'm at work is via Slack - but if I'm in the office then come and find me!
 
 For important questions or emergencies I'm available by Slack at any reasonable hour of the day or night (but I do NOT expect the same from my team). If you need my immediate attention then please give me a call.
 
@@ -121,3 +121,4 @@ Mike is distributed under [MIT license](license.md).
 
  - \*hopefully not Teams 
  - \*\*most
+ - \*\*\*hopefully not at 9am
